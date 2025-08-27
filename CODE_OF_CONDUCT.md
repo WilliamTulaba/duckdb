@@ -1,5 +1,5 @@
 # DuckDB Code of Conduct
-
+# Security scan
 **All creatures are welcome**: We aim to create a safe space for all community members, regardless of their age, race, gender, sexual orientation, physical appearance or disability, choice of text editor, or any other qualities by which living beings can be discriminated.
 
 **Be excellent to each other**: We do not tolerate verbal or physical harassment, violence or intimidation.
