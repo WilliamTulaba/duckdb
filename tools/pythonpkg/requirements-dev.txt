@@ -18,3 +18,4 @@ tensorflow
 cxxheaderparser
 pcpp
 pyspark
+keras>=3.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
